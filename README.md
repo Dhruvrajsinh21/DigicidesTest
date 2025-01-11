@@ -81,9 +81,9 @@ This branch builds upon the `main` branch and introduces the following enhanceme
 Adds a new farmer record.
 ```json
 {
-    "name": "John Doe",
-    "location": "Village A",
-    "number": "1234567890",
+    "name": "Dhruvrajsinh",
+    "location": "Ahmedabad",
+    "number": "9856231475",
     "PINcode": "123456"
 }
 ```
@@ -99,9 +99,9 @@ Example:
 [
     {
         "id": 1,
-        "name": "John Doe",
-        "location": "Village A",
-        "number": "1234567890",
+        "name": "Dhruvrajsinh",
+        "location": "Ahmedabad",
+        "number": "9856231475",
         "PINcode": "123456"
     }
 ]
