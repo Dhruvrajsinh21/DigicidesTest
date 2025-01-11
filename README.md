@@ -37,7 +37,7 @@ This branch builds upon the `main` branch and introduces the following enhanceme
    - Define the `FarmerInfo` model with basic fields (`id`, `name`, `location`, `number`, `PINcode`).
    - Implement a single endpoint (`POST /info`) to accept farmer data and save it to the database.
 
-### Enhanced Implementation (`updated` Branch)
+### Added left cases (`updated` Branch)
 1. **Objective**:
    - Improve the initial implementation by adding error handling, a unique constraint, and new endpoints for retrieving farmer records.
 2. **Steps**:
