@@ -1,4 +1,4 @@
-# DigicdesTest
+# DigicidesTest
  
 ### Added Cases (`updated` Branch)
 1. **Objective**:
