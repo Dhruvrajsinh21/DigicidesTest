@@ -1,8 +1,4 @@
 # DigicidesTest
- 
-# Farmer Info API
-
-This project provides a simple Flask-based REST API to manage farmer information. The API supports adding farmer details, retrieving all farmer records, and fetching specific records based on farmer IDs. The database is managed using SQLAlchemy with migrations enabled through Flask-Migrate.
 
 ## Branch Descriptions
 
